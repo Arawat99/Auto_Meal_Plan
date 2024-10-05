@@ -1,0 +1,9 @@
+username: admin
+password: FhRR99b3g1H2wn7y
+
+Meal Plan
+username: chrisjoshuaolaguera
+password: F2W3iXsTjZUiwRYl
+
+for otp request
+nodemailer

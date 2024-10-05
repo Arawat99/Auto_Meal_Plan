@@ -1,0 +1,182 @@
+.login-account-child {
+  	position: absolute;
+  	top: 976px;
+  	left: 45px;
+  	max-height: 100%;
+  	width: 575px;
+}
+.image-icon {
+  	position: absolute;
+  	top: -21px;
+  	left: 678px;
+  	width: 762px;
+  	height: 1066px;
+  	object-fit: cover;
+}
+.nd-layer-bg {
+  	position: absolute;
+  	top: 0px;
+  	left: -83px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: #fff;
+  	width: 725px;
+  	height: 1062px;
+}
+.password {
+  	position: absolute;
+  	top: 586px;
+  	left: 91px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 10px;
+  	background-color: #fff;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 521px;
+  	height: 100px;
+}
+.login-account-item {
+  	position: absolute;
+  	top: 928px;
+  	left: 67px;
+  	max-height: 100%;
+  	width: 575px;
+}
+.create-an-account {
+  	position: absolute;
+  	top: 704px;
+  	left: 55px;
+  	text-decoration: underline;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 202px;
+  	height: 42px;
+  	opacity: 0.6;
+}
+.login-account-inner {
+  	position: absolute;
+  	top: 444px;
+  	left: 91px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 10px;
+  	background-color: #fff;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 521px;
+  	height: 100px;
+}
+.enter-username-or {
+  	position: absolute;
+  	top: 479px;
+  	left: 203px;
+  	display: flex;
+  	align-items: center;
+  	width: 252px;
+  	height: 42px;
+  	opacity: 0.6;
+}
+.image-icon1 {
+  	position: absolute;
+  	top: 475px;
+  	left: 120px;
+  	width: 39px;
+  	height: 39px;
+  	object-fit: cover;
+}
+.enter-password {
+  	position: absolute;
+  	top: 616px;
+  	left: 206px;
+  	display: flex;
+  	align-items: center;
+  	width: 202px;
+  	height: 41px;
+  	opacity: 0.6;
+}
+.forgot-password {
+  	position: absolute;
+  	top: 713px;
+  	left: 485px;
+  	display: flex;
+  	align-items: center;
+  	width: 137px;
+  	height: 28px;
+  	opacity: 0.6;
+}
+.login-bg {
+  	position: absolute;
+  	top: 836px;
+  	left: 197px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 10px;
+  	background-color: #9b232c;
+  	width: 298px;
+  	height: 55px;
+}
+.login {
+  	position: absolute;
+  	top: 852px;
+  	left: 293px;
+  	font-size: 20px;
+  	display: flex;
+  	color: #fff;
+  	text-align: center;
+  	align-items: center;
+  	justify-content: center;
+  	width: 116px;
+  	height: 22px;
+}
+.password-icon {
+  	position: absolute;
+  	top: 616px;
+  	left: 120px;
+  	width: 39px;
+  	height: 40px;
+  	object-fit: cover;
+}
+.line-icon {
+  	position: absolute;
+  	top: 126.5px;
+  	left: 56.5px;
+  	max-height: 100%;
+  	width: 575px;
+}
+.your-account {
+  	color: #151414;
+}
+.login-your-account-container1 {
+  	width: 100%;
+}
+.login-your-account-container {
+  	position: absolute;
+  	top: 50px;
+  	left: 171px;
+  	font-size: 30px;
+  	display: flex;
+  	align-items: center;
+  	width: 390px;
+  	height: 59px;
+  	color: #d02301;
+}
+.logo-amp-2-icon {
+  	position: absolute;
+  	top: 174px;
+  	left: 129px;
+  	width: 445px;
+  	height: 252px;
+  	object-fit: cover;
+}
+.login-account {
+  	width: 100%;
+  	position: relative;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: #fff;
+  	height: 1034px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 15px;
+  	color: #000;
+  	font-family: Inter;
+}
+

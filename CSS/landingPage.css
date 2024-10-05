@@ -1,0 +1,137 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+.landing-page-draft-1-child {
+    position: absolute;
+    top: 0px;
+    left: -15px;
+    width: 1441px;
+    height: 109px;
+    opacity: 0.6;
+}
+.ljzmvhj9a0aegjurx9dboylkn4-1 {
+    position: absolute;
+    top: 345.01px;
+    left: 226.01px;
+    width: 51px;
+    height: 57.6px;
+    overflow: hidden;
+}
+.image-14-icon {
+    position: absolute;
+    width: 67.17%;
+    top: calc(50% - 238px);
+    right: -7.32%;
+    left: 40.16%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 903px;
+    object-fit: cover;
+}
+.span {
+    font-weight: 600;
+    font-family: Inter;
+}
+.plan {
+    font-weight: 300;
+    color: #000;
+}
+.automeal-plan {
+    align-self: stretch;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 78px;
+    flex-shrink: 0;
+}
+.fuel-your-day {
+    align-self: stretch;
+    position: relative;
+    font-size: 30px;
+    font-weight: 300;
+    color: #000;
+    display: flex;
+    align-items: center;
+    height: 180px;
+    flex-shrink: 0;
+}
+.automeal-plan-parent {
+    position: absolute;
+    width: 54.24%;
+    top: 443px;
+    right: 39.51%;
+    left: 6.25%;
+    height: 326px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 68px;
+    font-size: 96px;
+    color: #d02301;
+    font-family: Inter;
+}
+.logo-amp-1-icon {
+    position: absolute;
+    height: 12.79%;
+    top: 2.25%;
+    bottom: 84.96%;
+    left: 41px;
+    max-height: 100%;
+    width: 269px;
+    object-fit: cover;
+}
+.button1 {
+    position: relative;
+    line-height: 32px;
+}
+.button {
+    position: absolute;
+    height: 4.88%;
+    top: 6.15%;
+    right: 259px;
+    bottom: 88.96%;
+    border-radius: 9999px;
+    background-color: #e8251f;
+    width: 165px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.button2 {
+    position: absolute;
+    height: 4.88%;
+    top: 6.15%;
+    right: 68px;
+    bottom: 88.96%;
+    border-radius: 9999px;
+    background-color: #e8251f;
+    width: 165px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.landing-page-draft-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #f5f5f5;
+    font-family: Roboto;
+}
+
